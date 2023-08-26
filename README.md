@@ -1,1 +1,2 @@
-# seankang41.github.io
+###Sean's portfolio 
+#Hello! 
